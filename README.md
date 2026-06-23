@@ -17,7 +17,7 @@
 
 Data analyst based in Mumbai who partners with marketing, product, and sales teams to measure what actually moves the needle — conversion, cross-sell/up-sell, A/B uplift, and retention. I build the full pipeline: messy multi-source data → clean models → BI dashboards stakeholders can self-serve.
 
-- 🏢 Currently **MIS Executive** at Skanth Healthcare (Dermax Division)
+- 🏢 Currently **Data Analyst** at Skanth Healthcare (Dermax Division)
 - 📊 I work day-to-day in **Power BI, SQL, Python, BigQuery, Looker, Excel**
 - 🎯 Focused on **campaign analytics & business intelligence** in retail / consumer domains
 - 🧪 I like A/B testing, funnel analysis, and automating reporting that used to take days
